@@ -1,7 +1,6 @@
 # -Analisis-de-Morosidad-y-Flujo-de-Caja-
 El propósito de este proyecto es auditar una cartera histórica de 2.466 facturas comerciales de la división financiera de IBM para identificar ineficiencias en el circuito de cobranzas. 
-
-[Clientes con mayor promedio morosidad.xlsx](https://github.com/user-attachments/files/28360482/Clientes.con.mayor.promedio.morosidad.xlsx)
+![Clientes con mayor promedio morosidad.xlsx](https://github.com/user-attachments/files/28360482/Clientes.con.mayor.promedio.morosidad.xlsx)
 
 
 El propósito de este proyecto es auditar una cartera histórica de 2.466 facturas comerciales de la división financiera de IBM para identificar ineficiencias en el circuito de cobranzas.
@@ -29,8 +28,7 @@ Una vez consolidados los datos limpios en la hoja de cálculo, se construyeron m
 3)-Visualización Ejecutiva (Gráficos Dinámicos)
 Para que los datos sean interpretables a primera vista:
 Se transformaron las matrices numéricas en un Gráfico de Barras Dinámico, incorporando etiquetas de datos para identificar los desvíos financieros de manera inmediata, sin necesidad de leer la tabla completa.
-
-[Visualización de los Datos](https://github.com/user-attachments/assets/ca4a687c-0edb-40f6-a054-57d0ddeb7b44)
+![Visualización de los Datos](https://github.com/user-attachments/assets/ca4a687c-0edb-40f6-a054-57d0ddeb7b44)
 
 
 Hallazgos Clave y Conclusiones del Análisis
