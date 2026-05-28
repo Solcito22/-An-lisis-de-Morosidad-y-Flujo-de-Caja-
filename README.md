@@ -15,6 +15,7 @@ La materia prima del proyecto es un archivo crudo en formato .csv extraído de K
 *Normalización de Tipos de Datos: Se validó que las columnas cuantitativas (invoiceAmount) estuvieran en formato numérico decimal y las temporales o de conteo (DaysLate) como números enteros, evitando errores comunes de cálculo.
 *Depuración del Modelo: Se eliminaron las columnas que no aportaban valor al análisis financiero (como paperlessBill), reduciendo el peso del archivo y optimizando el procesamiento.
 
+![Reporte Ejecutivo de Morosidad](https://github.com/user-attachments/assets/ce43bd84-877e-41da-8ccc-1d3b406b41e7)
 
 
 2)-Procesamiento y Modelado con Tablas Dinámicas
